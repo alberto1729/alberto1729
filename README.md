@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @albertojcalle
 - 👀 I’m interested in haskell and functional programming.
 - 🌱 I’m currently learning haskell (4 years but still learning).
-- 📫 How to reach me: albertojcalle@gmail.com
